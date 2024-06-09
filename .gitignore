@@ -3,7 +3,6 @@ AnoViT/timm/__pycache__/*
 AnoViT/timm/models/__pycache__/*
 AnoViT/timm/models/layers/__pycache__/*
 .ipynb_checkpoints/*
-.idea/*
 data/*
 *.pt
 AnoViT/results
